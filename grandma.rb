@@ -15,10 +15,7 @@
 def speak_to_grandma(a)
   if a == "I LOVE YOU GRANDMA!"
   end
-  elseif a != a.upcase
 
-
-  end
   return "I LOVE YOU TOO PUMPKIN!"
 end
 
