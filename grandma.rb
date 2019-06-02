@@ -17,7 +17,7 @@ def speak_to_grandma(a)
     return "HUH?! SPEAK UP, SONNY!"
 
   elsif a == a.upcase
-
+    return "NO, NOT SINCE 1938!"
 
   end
 
