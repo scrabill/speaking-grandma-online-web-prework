@@ -24,8 +24,6 @@ def speak_to_grandma(a)
 
   end
 
-
-
 end
 
 speak_to_grandma("I LOVE YOU GRANDMA!")
