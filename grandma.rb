@@ -18,12 +18,6 @@ def speak_to_grandma(a)
 
   return "I LOVE YOU TOO PUMPKIN!"
 
-  if a != a.upcase
-  end
-
-  return "HUH?! SPEAK UP, SONNY!"
-
-
 end
 
 speak_to_grandma("I LOVE YOU GRANDMA!")
